@@ -1,3 +1,3 @@
 FROM node:12
 
-RUN npm install -g node-sass 
+RUN sudo npm install -g node-sass 
